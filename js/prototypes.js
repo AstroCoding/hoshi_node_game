@@ -1,5 +1,5 @@
 var settings = {
-    size: 5,
+    size: 12,
     maxConnections: (Math.floor(Math.random() * 5) + 3),
     colors: {
         complete: 'LIME',
